@@ -1,0 +1,2 @@
+# Ebyte_LoRa_Config
+Library for config wireless serial port module (UART) based on SEMTECH's LoRa (SX1276/78, LR1121..) solution radio frequency chip at Ebyte company
